@@ -7,7 +7,7 @@
 
 <h3 align="left">📝 My chosen Course Flow Program:</h3>
 
-**- Y: Computer Systems** <a <img src="https://iconscout.com/icon/microprocessor-1416572" alt="c" width="20" height="20"/> </a> 
+**- Y: Computer Systems** <img src="https://iconscout.com/icon/microprocessor-1416572" alt="c" width="20" height="20"/>
 
 **- L: Computer Software**
 
