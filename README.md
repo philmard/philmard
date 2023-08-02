@@ -7,8 +7,7 @@
 
 <h3 align="left">📝 My chosen Course Flow Program:</h3>
 
-**- Y: Computer Systems** ![image](https://github.com/philmard/philmard/assets/133666571/3d4b2600-da33-45ab-a4d3-cd1dbcdc52e1)
-
+**- Y: Computer Systems** 
 
 **- L: Computer Software**
 
