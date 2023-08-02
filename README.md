@@ -6,9 +6,11 @@
 - 🔭 I’m currently working on **finishing my degree :)**
 
 <h3 align="left">📝 My chosen Course Flow Program:</h3>
+<p align="left">
 - Y: Computer Systems
 - L: Computer Software
 - D: Telecommunication Systems And Computer Networks
+</p>
 
 - 📫 How to reach me **philipmardir@gmail.com**
 
