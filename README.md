@@ -7,7 +7,7 @@
 
 <h3 align="left">📝 My chosen Course Flow Program:</h3>
 
-**- Y: Computer Systems** <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
+**- Y: Computer Systems** <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 
 **- L: Computer Software**
 
