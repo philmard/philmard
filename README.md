@@ -5,7 +5,10 @@
 
 - 🔭 I’m currently working on **finishing my degree :)**
 
-- 📝 My chosen Flow Program **Y: Computer Systems, L: Computer Software, D: Telecommunication Systems And Computer Networks**
+- 📝 My chosen Course Flow Program:
+- **Y: Computer Systems**
+- **L: Computer Software**
+- **D: Telecommunication Systems And Computer Networks**
 
 - 📫 How to reach me **philipmardir@gmail.com**
 
