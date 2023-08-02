@@ -5,6 +5,7 @@
 
 - 🔭 I’m currently working on **finishing my degree :)**
 
+<h3 align="left">📝 My chosen Course Flow Program:</h3>
 - 📝 My chosen Course Flow Program:
 - **Y: Computer Systems**
 - **L: Computer Software**
