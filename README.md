@@ -7,11 +7,11 @@
 
 <h3 align="left">📝 My chosen Course Flow Program:</h3>
 
-**- Y: Computer Systems**
+[**- Y: Computer Systems**](https://www.ece.ntua.gr/en/undergraduate/courses/flow/1)
 
 [**- L: Computer Software**](https://www.ece.ntua.gr/en/undergraduate/courses/flow/2)
 
-**- D: Telecommunication Systems And Computer Networks**
+[**- D: Telecommunication Systems And Computer Networks**](https://www.ece.ntua.gr/en/undergraduate/courses/flow/4)
 
 
 - 📫 How to reach me **philipmardir@gmail.com**
