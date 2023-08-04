@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **finishing my degree :)**
 
-<h2 align="left">📝 My chosen Course Flow Program:</h2>
+<h2 align="left">📝 My chosen Course Flow Program</h2>
 
 [**- Y: Computer Systems**](https://www.ece.ntua.gr/en/undergraduate/courses/flow/1)
 
@@ -14,7 +14,7 @@
 [**- D: Telecommunication Systems And Computer Networks**](https://www.ece.ntua.gr/en/undergraduate/courses/flow/4)
 
 
-<h3 align="left">⚡ Fun facts about me:</h3>
+<h2 align="left">⚡ Fun facts about me:</h2>
 
 1) Rank (WPM percentile): 96.1% in Typeracer
 
@@ -35,7 +35,7 @@ Link: https://www.worldcubeassociation.org/persons/2016MARN01
 Link: https://www.leagueofgraphs.com/summoner/eune/%C6%92+x
 
 
-<h3 align="left">📫 How to reach me:</h3>
+<h2 align="left">📫 How to reach me:</h2>
 
 **philipmardir@gmail.com**
 
