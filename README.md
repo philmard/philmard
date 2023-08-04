@@ -23,7 +23,8 @@ Full Avg.: 82.8 WPM (Words Per Minute)
 Link: https://data.typeracer.com/pit/profile?user=fmard
 
 
-2) 5th place in 2 Rubik's Cube competitions (hosted in Greece)
+2) ![image](https://github.com/philmard/philmard/assets/133666571/84fe6b52-73cb-4927-8a43-a52ca5193954)
+5th place in 2 Rubik's Cube competitions (hosted in Greece)
 
 Unofficial PB: 7.20s
 
