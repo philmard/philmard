@@ -14,8 +14,6 @@
 [**- D: Telecommunication Systems And Computer Networks**](https://www.ece.ntua.gr/en/undergraduate/courses/flow/4)
 
 
-- 📫 How to reach me **philipmardir@gmail.com**
-
 - ⚡ Fun facts about me:
 
 1) Rank (WPM percentile): 96.1% in Typeracer
@@ -44,6 +42,8 @@ Link: https://www.worldcubeassociation.org/persons/2016MARN01
 Link: https://www.leagueofgraphs.com/summoner/eune/%C6%92+x
 
   
+- 📫 How to reach me **philipmardir@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
