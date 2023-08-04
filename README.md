@@ -20,21 +20,29 @@
 
 Rank (WPM percentile): 96.1% in Typeracer
 
+
 Full Avg.: 82.8 WPM (Words Per Minute)
+
 
 Link: https://data.typeracer.com/pit/profile?user=fmard
 
 
+
 5th place (in Greece) in 2 Rubik's Cube competitions
 
+
 Unofficial PB: 7.20s
+
 
 Link: https://www.worldcubeassociation.org/persons/2016MARN01
 
 
+
 Peak: Rank 135 (Challenger Rank) in S11 League of Legends [EUNE Server]
 
+
 Link: https://www.leagueofgraphs.com/summoner/eune/%C6%92+x
+
   
 
 <h3 align="left">Connect with me:</h3>
