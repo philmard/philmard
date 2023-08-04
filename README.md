@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **finishing my degree :)**
 
-<h3 align="left">📝 My chosen Course Flow Program:</h3>
+<h2 align="left">📝 My chosen Course Flow Program:</h2>
 
 [**- Y: Computer Systems**](https://www.ece.ntua.gr/en/undergraduate/courses/flow/1)
 
