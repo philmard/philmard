@@ -28,7 +28,7 @@ Link: https://data.typeracer.com/pit/profile?user=fmard
 
 
 
-5th place (in Greece) in 2 Rubik's Cube competitions
+5th place in 2 Rubik's Cube competitions (hosted in Greece)
 
 
 Unofficial PB: 7.20s
