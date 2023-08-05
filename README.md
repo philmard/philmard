@@ -21,7 +21,7 @@
   Typeracer
 </p>
 
-Rank ( WPM percentile ): 96.1% in Typeracer
+Rank ( WPM percentile ): 96.1% in [Typeracer](https://data.typeracer.com/misc/about)
 
 Full Avg.: 82.8 WPM (Words Per Minute)
 
