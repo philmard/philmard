@@ -16,10 +16,13 @@
 
 <h2 align="left">⚡ Fun facts about me</h2>
 
-<a href="https://data.typeracer.com/pit/profile?user=fmard" target="blank" style="float: left; margin-right: 10px;">
-  <img align="center" src="https://github.com/philmard/SVGs/blob/main/Site-logo-typeracer%20(2).svg" alt="philmard" height="30" width="40" />
-</a>
-<h3>Typeracer</h3>
+<div style="display: flex; align-items: center;">
+  <a href="https://data.typeracer.com/pit/profile?user=fmard" target="blank">
+    <img src="https://github.com/philmard/SVGs/blob/main/Site-logo-typeracer%20(2).svg" alt="philmard" height="30" width="40" />
+  </a>
+  <h3 style="margin-left: 10px;">Typeracer</h3>
+</div>
+
 
 
 Rank (WPM percentile): 96.1% in Typeracer
