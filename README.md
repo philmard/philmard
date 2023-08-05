@@ -18,7 +18,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/filippos-marntirosian-6097a0286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="philmard" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/filippos-marntirosian-6097a0286/" target="blank"><img align="center" src="https://github.com/philmard/SVGs/blob/main/Site-logo-typeracer.svg" alt="philmard" height="30" width="40" /></a>
+<a href="https://data.typeracer.com/pit/profile?user=fmard" target="blank"><img align="center" src="https://github.com/philmard/SVGs/blob/main/Site-logo-typeracer.svg" alt="philmard" height="30" width="40" /></a>
 </p>
 1) Rank (WPM percentile): 96.1% in Typeracer
 
