@@ -21,7 +21,7 @@
   Typeracer
 </p>
 
-Rank (WPM percentile): 96.1% in Typeracer
+Rank ( WPM percentile ): 96.1% in Typeracer
 
 Full Avg.: 82.8 WPM (Words Per Minute)
 
@@ -46,7 +46,7 @@ Link: https://www.worldcubeassociation.org/persons/2016MARN01
     League of Legends
 </p> 
 
-Peak: Rank 135 ([ Challenger Rank ](https://www.leagueofgraphs.com/rankings/rank-distribution)) in S11 League of Legends [EUNE Server] - Approx. 0.017% of Player Database
+Peak: Rank 135 ([ Challenger Rank ](https://www.leagueofgraphs.com/rankings/rank-distribution)) in S11 League of Legends [EUNE Server]
 
 Link: https://www.leagueofgraphs.com/summoner/eune/%C6%92+x
 
