@@ -51,7 +51,7 @@ Peak: **Rank 135** ([ **Challenger Rank** ](https://www.leagueofgraphs.com/ranki
 Link: https://www.leagueofgraphs.com/summoner/eune/%C6%92+x
 
 
-<h2 align="left">📫 How to reach me:</h2>
+<h2 align="left">📫 How to reach me</h2>
 
 **philipmardir@gmail.com**
 <p align="left">
