@@ -18,7 +18,7 @@
 
 <p align="left">
 <a href="https://data.typeracer.com/pit/profile?user=fmard" target="blank"><img align="center" src="https://github.com/philmard/SVGs/blob/main/Site-logo-typeracer%20(2).svg" alt="philmard" height="30" width="40" /></a>
-  <h3 align="center">Typeracer</h3>
+  <h3 Typeracer</h3>
 </p> 
 Rank (WPM percentile): 96.1% in Typeracer
 
