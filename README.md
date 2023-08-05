@@ -34,7 +34,7 @@ Link: https://data.typeracer.com/pit/profile?user=fmard
     World Cube Association
 </p> 
 
-5th place in 2 Rubik's Cube competitions (hosted in Greece)
+5th place in 2 [Rubik's Cube](https://en.wikipedia.org/wiki/Rubik%27s_Cube) competitions (hosted in Greece)
 
 Unofficial 3x3 PB: 7.20s
 
