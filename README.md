@@ -31,7 +31,7 @@ Link: https://data.typeracer.com/pit/profile?user=fmard
 
 <p align="left">
 <a href="https://www.worldcubeassociation.org/persons/2016MARN01" target="blank"><img align="center" src="https://github.com/philmard/SVGs/blob/main/WCA_Logo_2020.svg" alt="philmard" height="30" width="30" /></a>
-   World Cube Association
+    World Cube Association
 </p> 
 
 5th place in 2 Rubik's Cube competitions (hosted in Greece)
@@ -43,7 +43,7 @@ Link: https://www.worldcubeassociation.org/persons/2016MARN01
 
 <p align="left">
 <a href="https://www.leagueofgraphs.com/summoner/eune/%C6%92+x" target="blank"><img align="center" src="https://github.com/philmard/SVGs/blob/main/lol-icon.svg" alt="philmard" height="30" width="30" /></a>
-   League of Legends
+    League of Legends
 </p> Peak: Rank 135 (Challenger Rank) in S11 League of Legends [EUNE Server]
 
 Link: https://www.leagueofgraphs.com/summoner/eune/%C6%92+x
