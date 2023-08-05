@@ -44,7 +44,9 @@ Link: https://www.worldcubeassociation.org/persons/2016MARN01
 <p align="left">
 <a href="https://www.leagueofgraphs.com/summoner/eune/%C6%92+x" target="blank"><img align="center" src="https://github.com/philmard/SVGs/blob/main/lol-icon.svg" alt="philmard" height="30" width="30" /></a>
     League of Legends
-</p> Peak: Rank 135 (Challenger Rank) in S11 League of Legends [EUNE Server]
+</p> 
+
+Peak: Rank 135 (Challenger Rank) in S11 League of Legends [EUNE Server]
 
 Link: https://www.leagueofgraphs.com/summoner/eune/%C6%92+x
 
