@@ -17,7 +17,7 @@
 <h2 align="left">⚡ Fun facts about me</h2>
 
 <p align="left">•
-<a href="https://data.typeracer.com/pit/profile?user=fmard" target="blank"><img align="center" src="https://github.com/philmard/SVGs/blob/main/Site-logo-typeracer%20(2).svg" alt="philmard" height="30" width="30" /></a>
+<a href="https://data.typeracer.com/misc/about" target="blank"><img align="center" src="https://github.com/philmard/SVGs/blob/main/Site-logo-typeracer%20(2).svg" alt="philmard" height="30" width="30" /></a>
   Typeracer
 </p>
 
@@ -30,7 +30,7 @@ Link: https://data.typeracer.com/pit/profile?user=fmard
 
 
 <p align="left">•
-<a href="https://www.worldcubeassociation.org/persons/2016MARN01" target="blank"><img align="center" src="https://github.com/philmard/SVGs/blob/main/WCA_Logo_2020.svg" alt="philmard" height="30" width="30" /></a>
+<a href="https://www.worldcubeassociation.org/" target="blank"><img align="center" src="https://github.com/philmard/SVGs/blob/main/WCA_Logo_2020.svg" alt="philmard" height="30" width="30" /></a>
     World Cube Association
 </p> 
 
@@ -42,7 +42,7 @@ Link: https://www.worldcubeassociation.org/persons/2016MARN01
 
 
 <p align="left">•
-<a href="https://www.leagueofgraphs.com/summoner/eune/%C6%92+x" target="blank"><img align="center" src="https://github.com/philmard/SVGs/blob/main/lol-icon.svg" alt="philmard" height="30" width="30" /></a>
+<a href="https://en.wikipedia.org/wiki/League_of_Legends" target="blank"><img align="center" src="https://github.com/philmard/SVGs/blob/main/lol-icon.svg" alt="philmard" height="30" width="30" /></a>
     League of Legends
 </p> 
 
