@@ -24,7 +24,9 @@ Full Avg.: 82.8 WPM (Words Per Minute)
 Link: https://data.typeracer.com/pit/profile?user=fmard
 
 
-2) 5th place in 2 Rubik's Cube competitions (hosted in Greece)
+<p align="left">
+<a href="https://www.worldcubeassociation.org/persons/2016MARN01" target="blank"><img align="center" src="https://github.com/philmard/SVGs/blob/main/WCA_Logo_2020.svg" alt="philmard" height="30" width="40" /></a>
+</p> 5th place in 2 Rubik's Cube competitions (hosted in Greece)
 
 Unofficial PB: 7.20s
 
