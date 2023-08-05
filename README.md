@@ -21,6 +21,7 @@
 </p> Rank (WPM percentile): 96.1% in Typeracer
 
 Full Avg.: 82.8 WPM (Words Per Minute)
+
 Link: https://data.typeracer.com/pit/profile?user=fmard
 
 
