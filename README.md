@@ -28,16 +28,23 @@ Full Avg.: 82.8 WPM (Words Per Minute)
 Link: https://data.typeracer.com/pit/profile?user=fmard
 
 
+
 <p align="left">
 <a href="https://www.worldcubeassociation.org/persons/2016MARN01" target="blank"><img align="center" src="https://github.com/philmard/SVGs/blob/main/WCA_Logo_2020.svg" alt="philmard" height="30" width="40" /></a>
-</p> 5th place in 2 Rubik's Cube competitions (hosted in Greece)
+  World Cube Association
+</p> 
+
+5th place in 2 Rubik's Cube competitions (hosted in Greece)
 
 Unofficial PB: 7.20s
 
 Link: https://www.worldcubeassociation.org/persons/2016MARN01
 
 
-3) Peak: Rank 135 (Challenger Rank) in S11 League of Legends [EUNE Server]
+<p align="left">
+<a href="https://www.leagueofgraphs.com/summoner/eune/%C6%92+x" target="blank"><img align="center" src="https://github.com/philmard/SVGs/blob/main/lol-icon.svg" alt="philmard" height="30" width="40" /></a>
+  League of Legends
+</p> Peak: Rank 135 (Challenger Rank) in S11 League of Legends [EUNE Server]
 
 Link: https://www.leagueofgraphs.com/summoner/eune/%C6%92+x
 
