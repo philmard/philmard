@@ -30,7 +30,7 @@ Link: https://data.typeracer.com/pit/profile?user=fmard
 
 
 <p align="left">
-<a href="https://www.worldcubeassociation.org/persons/2016MARN01" target="blank"><img align="center" src="https://github.com/philmard/SVGs/blob/main/WCA_Logo_2020.svg" alt="philmard" height="30" width="40" /></a>
+<a href="https://www.worldcubeassociation.org/persons/2016MARN01" target="blank"><img align="center" src="https://github.com/philmard/SVGs/blob/main/WCA_Logo_2020.svg" alt="philmard" height="40" width="40" /></a>
   World Cube Association
 </p> 
 
