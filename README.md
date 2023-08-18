@@ -26,38 +26,4 @@
 <a href="https://instagram.com/f.mard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="f.mard" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">⚡ Fun facts about me</h2>
 
-<p align="left">•
-<a href="https://data.typeracer.com/misc/about" target="blank"><img align="center" src="https://github.com/philmard/SVGs/blob/main/Site-logo-typeracer2.svg" alt="philmard" height="30" width="30" /></a>
-  Typeracer
-</p>
-
-Rank ( WPM percentile ): **96.1%** in [Typeracer](https://data.typeracer.com/misc/about)
-
-Full Avg.: **82.8 WPM** (Words Per Minute)
-
-Link: https://data.typeracer.com/pit/profile?user=fmard
-
-
-
-<p align="left">•
-<a href="https://www.worldcubeassociation.org/" target="blank"><img align="center" src="https://github.com/philmard/SVGs/blob/main/WCA_Logo_2020.svg" alt="philmard" height="30" width="30" /></a>
-    World Cube Association
-</p> 
-
-**5th place** in 2 [Rubik's Cube](https://en.wikipedia.org/wiki/Rubik%27s_Cube) competitions (hosted in Greece)
-
-Unofficial 3x3 PB: **7.20s**
-
-Link: https://www.worldcubeassociation.org/persons/2016MARN01
-
-
-<p align="left">•
-<a href="https://en.wikipedia.org/wiki/League_of_Legends" target="blank"><img align="center" src="https://github.com/philmard/SVGs/blob/main/lol-icon.svg" alt="philmard" height="30" width="30" /></a>
-    League of Legends
-</p> 
-
-Peak: **Rank 135** ([ **Challenger** ](https://www.leagueofgraphs.com/rankings/rank-distribution)) in S11 League of Legends [EUNE Server]
-
-Link: https://www.leagueofgraphs.com/summoner/eune/%C6%92+x
