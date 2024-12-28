@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Filippos Marntirosian</h1>
 <h3 align="center">Electrical & Computer Engineer - National Technical University of Athens</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=philmard&label=Profile%20views&color=0e75b6&style=flat" alt="philmard" /> </p>
-
 - 🔭 I’m currently working on **finishing my degree :)**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -25,4 +23,4 @@
 <a href="https://instagram.com/f.mard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="f.mard" height="30" width="40" /></a>
 </p>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=philmard&label=Profile%20views&color=0e75b6&style=flat" alt="philmard" /> </p>
